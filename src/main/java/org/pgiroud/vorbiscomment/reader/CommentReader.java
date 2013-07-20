@@ -13,5 +13,14 @@
  * You should have received a copy of the GNU General Public License
  * along with vorbiscomment.  If not, see <http://www.gnu.org/licenses/>.
  */
-public class CommentReaderTest {
+package org.pgiroud.vorbiscomment.reader;
+
+/**
+ * Created with IntelliJ IDEA.
+ * User: patrick
+ * Date: 18/07/13
+ * Time: 21:49
+ * To change this template use File | Settings | File Templates.
+ */
+public class CommentReader {
 }
